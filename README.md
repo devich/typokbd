@@ -1,4 +1,4 @@
-# Типографська розкладка клавіатури для Windows {#hero-title}
+# Типографська розкладка клавіатури для Windows
 [![Unlicensed](https://img.shields.io/badge/license-free-gold)](#)
 [![GitHub Release](https://img.shields.io/github/v/release/devich/Typography-Keyboard)](https://github.com/devich/Typography-Keyboard/releases/latest)
 
