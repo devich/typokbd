@@ -1,5 +1,5 @@
 # Типографська розкладка клавіатури для Windows
-![Unlicensed](https://img.shields.io/badge/license-free-gold)
+[![Unlicensed](https://img.shields.io/badge/license-free-gold)](#)
 [![GitHub Release](https://img.shields.io/github/v/release/devich/Typography-Keyboard)](https://github.com/devich/Typography-Keyboard/releases/latest)
 
 
@@ -12,7 +12,7 @@
 
 
 ## Чіт-шит
-![Українська типографська розкладка](assets/ukrainian-layout.png)
+[![Українська типографська розкладка](assets/ukrainian-layout.png)](#)
 
 Символи, що позначені :green_circle: зеленим — вводяться через `Alt` + `відповідна клавіша`, :large_blue_circle: синім — через `Alt` + `Shift` + `відповідна клавіша`.
 
@@ -43,3 +43,10 @@ __Зверніть увагу:__ додаткові символи вводят�
 - Після внесення змін до реєстру перезавантажте Windows.
 
 Альтернативний метод: можна скористатися застосунком [SharpKeys](https://github.com/randyrants/sharpkeys) — він дозволяє змінювати функції будь-яких клавіш у Windows через графічний інтерфейс.
+
+{
+ resolve: 'gatsby-remark-images',
+ options: {
+   linkImagesToOriginal: false,
+ },
+}
