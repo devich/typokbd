@@ -23,7 +23,7 @@
 - Можливість ставити стрілочки `← ↑ → ↓`.
 
 ## Як встановити
-- Завантажте останню версію файлу Ukr-Typo-Keyboard-Win.zip зі [сторінки релізів](releases/latest).
+- Завантажте останню версію файлу Ukr-Typo-Keyboard-Win.zip зі [сторінки релізів](https://github.com/devich/Typography-Keyboard/releases/latest).
 - Розпакуйте архів і запустіть `setup.exe`.
 - Оберіть в настройках мови і регіону Windows розкладку `Ukrainian (Typography)` для української мови.
 - Видаліть більше непотрібні інші розкладки.
