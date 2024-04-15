@@ -32,7 +32,7 @@
 - Видаліть більше непотрібні інші розкладки.
 
 
-## Як зробити правий Alt клавішею для вводу альтернативних символів
+## Як зробити лівий Alt клавішею для вводу альтернативних символів
 Архів `Ukr-Typo-Keyboard-Win.zip` зі [сторінки релізів](https://github.com/devich/Typography-Keyboard/releases/latest) містить в собі два `.reg` файли: `Alts-Swap.reg` і `Alts-Restore-Defaults.reg`.
 
 - Щоб поміняти місцями функції правого та лівого `Alt` — запустіть `Alts-Swap.reg`.
