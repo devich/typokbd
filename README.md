@@ -1,6 +1,9 @@
 # Типографська розкладка клавіатури для Windows
-## Що це і для кого
+[![MIT License](https://img.shields.io/badge/license-Public%20Domain-gold)]()
+[![GitHub Release](https://img.shields.io/github/v/release/devich/Typography-Keyboard)](https://github.com/devich/Typography-Keyboard/releases/latest)
 
+
+## Що це і для кого
 Українська типографська розкладка для Windows містить основні типографські символи (лапки, тире, коротке тире, типографський апостроф, знаки валют тощо) і літери інших слов’янських кириличних абеток.
 
 Якщо ви журналіст або публіцист і хочете писати красиві тексти; айтівець або smm-ник; тримаєте кілька кириличних розкладок; або ви просто педантичний естет :metal: — ця розкладка для вас.
