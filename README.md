@@ -1,6 +1,6 @@
 # Типографська розкладка клавіатури для Windows
-[![Unlicensed](https://img.shields.io/badge/license-free-gold)](#)
-[![GitHub Release](https://img.shields.io/github/v/release/devich/Typography-Keyboard)](https://github.com/devich/Typography-Keyboard/releases/latest)
+[![Unlicensed](https://img.shields.io/github/license/devich/typokbd?color=gold)](https://github.com/devich/typokbd/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/devich/typokbd)](https://github.com/devich/typokbd/releases/latest)
 
 
 ## Що це і для кого
@@ -12,7 +12,7 @@
 
 
 ## Чіт-шит
-[![Українська типографська розкладка](assets/ukrainian-layout.png)](#)
+[![Українська типографська розкладка](assets/ukrainian-layout.png)](assets/ukrainian-layout.png)
 
 Символи, що позначені 🟢 зеленим — вводяться через `Alt` + `відповідна клавіша`, 🔵 синім — через `Alt` + `Shift` + `відповідна клавіша`.
 
@@ -29,14 +29,14 @@ __Зверніть увагу:__ додаткові символи вводят�
 
 
 ## Як встановити
-- Завантажте останню версію файлу `Ukr-Typo-Keyboard-Win.zip` зі [сторінки релізів](https://github.com/devich/Typography-Keyboard/releases/latest).
+- Завантажте останню версію файлу `Ukr-Typo-Keyboard-Win.zip` зі [сторінки релізів](https://github.com/devich/typokbd/releases/latest).
 - Розпакуйте архів і запустіть `setup.exe`.
 - Оберіть в настройках мови та регіону Windows розкладку `Ukrainian (Typography)` для української мови.
 - Видаліть більше непотрібні інші розкладки.
 
 
 ## Як зробити лівий Alt клавішею для вводу альтернативних символів
-Архів `Ukr-Typo-Keyboard-Win.zip` зі [сторінки релізів](https://github.com/devich/Typography-Keyboard/releases/latest) містить в собі два `.reg` файли: `Alts-Swap.reg` і `Alts-Restore-Defaults.reg`.
+Архів `Ukr-Typo-Keyboard-Win.zip` зі [сторінки релізів](https://github.com/devich/typokbd/releases/latest) містить в собі два `.reg` файли: `Alts-Swap.reg` і `Alts-Restore-Defaults.reg`.
 
 - Щоб поміняти місцями функції правого та лівого `Alt` — запустіть `Alts-Swap.reg`.
 - Щоб повернути все як і було — запустіть `Alts-Restore-Defaults.reg`.
