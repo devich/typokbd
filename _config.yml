@@ -1,0 +1,3 @@
+remote_theme: devich/jekyll-template-for-readme
+plugins:
+- jekyll-remote-theme
