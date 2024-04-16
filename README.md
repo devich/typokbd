@@ -1,4 +1,4 @@
-# Типографська розкладка клавіатури для Windows
+# Типографська розкладка клавіатури для&#160;Windows
 [![Unlicensed](https://img.shields.io/github/license/devich/typokbd?color=gold)](https://github.com/devich/typokbd/blob/main/LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/devich/typokbd)](https://github.com/devich/typokbd/releases/latest)
 
