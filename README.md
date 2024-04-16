@@ -1,3 +1,10 @@
+---
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
+---
+
 # Типографська розкладка клавіатури для Windows
 [![Unlicensed](https://img.shields.io/github/license/devich/typokbd?color=gold)](https://github.com/devich/typokbd/blob/main/LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/devich/typokbd)](https://github.com/devich/typokbd/releases/latest)
