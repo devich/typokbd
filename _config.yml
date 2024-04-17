@@ -3,5 +3,5 @@ bg_color: dark # can be dark, light or auto
 # theme-color is main accent color and can be red, pink, fuchsia, purple, violet, indigo, blue, azure, cyan, jade, green,
 # lime, yellow, amber, pumpkin, orange, sand, grey, zinc, slate. See samples on https://picocss.com/docs/version-picker
 theme_color: azure
-title: Github Pages Template for Readme
+title: Типографська розкладка клавіатури для Windows
 remote_theme: devich/jekyll-template-for-readme
