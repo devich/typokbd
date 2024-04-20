@@ -4,6 +4,6 @@ bg_color: dark # can be dark, light or auto
 # lime, yellow, amber, pumpkin, orange, sand, grey, zinc, slate. See samples on https://picocss.com/docs/version-picker
 theme_color: jade
 title: Типографська розкладка клавіатури для Windows
-remote_theme: devich/readme-landing-page
 description: Типографська розкладка клавіатури для Windows
 keywords: keyboard layout, типографська розкладка
+remote_theme: devich/quick
