@@ -8,3 +8,17 @@ description: Типографська розкладка клавіатури д
 keywords: keyboard layout, типографська розкладка
 gtag: G-FMYYSYS0ZV
 remote_theme: devich/quick
+
+# If you're using devich/quick as your GitHub Pages remote theme,
+# there's no need to copy the options listed below.
+# This is a service section, it's probably best not to make changes here
+# unless you're confident in what you're doing.
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-remote-theme
